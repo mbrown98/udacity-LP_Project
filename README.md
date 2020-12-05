@@ -1,13 +1,13 @@
 # Landing Page Project
 
-## Table of Contents
+## Description
 
-* [Instructions](#instructions)
+This project is the Landing Page Project, and is the 2nd project in the Front End Web Developer Nanodegree Program.
 
-## Instructions
+## Functionality
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+The app.js file contains the functionality for the project.
 
-To get started, open `js/app.js` and start building out the app's functionality
+It uses document method to append a navBar to the page, that provides link to the main sections of the page
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+It adds event listeners both to the navBar and the page itself, to allow the user to navigate around the page, and also know what section they are currently viewing
